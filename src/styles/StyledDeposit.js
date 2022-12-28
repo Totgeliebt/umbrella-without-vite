@@ -6,9 +6,9 @@ export const StyledDeposit = styled.div`
   background: #fffae9;
   padding-top: 70px;
   padding-bottom: 70px;
-  @media(max-width: 430px){
+  @media (max-width: 430px) {
     padding: 30px 30px;
-}
+  }
 
   input {
     position: absolute;
@@ -29,8 +29,8 @@ export const StyledDeposit = styled.div`
 
   .deposit__icon-boobs {
     margin-bottom: 9px;
-    @media(max-width: 430px){
-     margin: 0;
+    @media (max-width: 430px) {
+      margin: 0;
     }
   }
 
@@ -41,7 +41,7 @@ export const StyledDeposit = styled.div`
     position: absolute;
     top: 22px;
     right: 0;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       top: 102px;
       right: 23%;
       padding: 13px 27px 6px;
@@ -56,7 +56,7 @@ export const StyledDeposit = styled.div`
     line-height: 20px;
     text-align: center;
     color: #333333;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-size: 15px;
       line-height: 20px;
     }
@@ -76,7 +76,7 @@ export const StyledDeposit = styled.div`
     line-height: 26px;
     text-align: center;
     color: #333333;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-size: 18px;
       line-height: 26px;
     }
@@ -96,7 +96,7 @@ export const StyledDeposit = styled.div`
     line-height: 68px;
     color: #ff5c00;
     margin-left: 10px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-weight: 600;
       font-size: 26px;
       line-height: 32px;
@@ -119,7 +119,7 @@ export const StyledDeposit = styled.div`
     text-align: center;
     color: #333333;
     margin-bottom: 50px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-size: 20px;
       line-height: 26px;
       margin: 20px 0;
@@ -132,7 +132,7 @@ export const StyledDeposit = styled.div`
     border-radius: 50%;
     background: #ff5c00;
     position: relative;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       width: 35px;
       height: 35px;
     }
@@ -142,10 +142,9 @@ export const StyledDeposit = styled.div`
     position: absolute;
     width: 53px;
     height: 53px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       width: 35px;
       height: 35px;
-      
     }
   }
 
@@ -157,7 +156,7 @@ export const StyledDeposit = styled.div`
     grid-auto-rows: 140px;
     gap: 50px;
     margin-bottom: 80px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       max-width: 430px;
       grid-template-columns: repeat(2, 160px);
       grid-auto-rows: 80px;
@@ -170,7 +169,7 @@ export const StyledDeposit = styled.div`
     grid-template-columns: repeat(2, 416.5px);
     grid-auto-rows: 180px;
     margin-bottom: 80px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       grid-template-columns: repeat(2, 160px);
       grid-auto-rows: 80px;
       margin-bottom: 40px;
@@ -180,7 +179,7 @@ export const StyledDeposit = styled.div`
   .deposit__unordered_list_type_payment > .radio-button {
     padding: 30px 0 35px 40px;
     justify-content: flex-start;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       padding: 10px 0 15px 20px;
     }
   }
@@ -189,7 +188,7 @@ export const StyledDeposit = styled.div`
     align-items: center;
     position: relative;
     margin-right: 50px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       margin-right: 20px;
     }
   }
@@ -200,7 +199,7 @@ export const StyledDeposit = styled.div`
     font-size: 40px;
     line-height: 49px;
     color: #000000;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-weight: 500;
       font-size: 22px;
       line-height: 27px;
@@ -213,7 +212,7 @@ export const StyledDeposit = styled.div`
     font-size: 18px;
     line-height: 22px;
     color: #ff5c00;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-weight: 500;
       font-size: 14px;
       line-height: 20px;
@@ -224,7 +223,7 @@ export const StyledDeposit = styled.div`
     bottom: -1px;
     right: -1px;
     border-radius: 0 0 50% 0;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-weight: 500;
       font-size: 14px;
       line-height: 22px;
@@ -238,7 +237,7 @@ export const StyledDeposit = styled.div`
     height: 50px;
     margin-bottom: 12px;
     object-fit: contain;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       width: 50px;
       height: 30px;
       margin-bottom: 0;
@@ -253,7 +252,7 @@ export const StyledDeposit = styled.div`
     font-size: 35px;
     line-height: 43px;
     color: #000000;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       font-weight: 500;
       font-size: 20px;
       line-height: 27px;
@@ -270,31 +269,47 @@ export const StyledDeposit = styled.div`
     position: relative;
     transition: all 0.2s linear;
   }
-  
+
   .radio-button > label {
     display: inline-flex;
     align-items: center;
     user-select: none;
     width: 34px;
     height: 34px;
-    outline: 3px solid #ff5c00;
-    background-color: transparent;
-    outline-offset: 6px;
+    background-color: #fffae9;
     margin-left: 9px;
     border-radius: 50%;
     transform: translateZ(0);
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       margin-left: 0;
       width: 25px;
       height: 25px;
     }
   }
-
+  .radio-button > label::before {
+    content: "";
+    position: absolute;
+    top: -6px; // border: 2px + offset: 1px
+    right: -6px; // border: 2px + offset: 1px
+    bottom: -6px; // border: 2px + offset: 1px
+    left: -6px; // border: 2px + offset: 1px
+    border: 3px solid #ff5c00;
+    border-radius: 50%; // border—radius: 6px + offset: 1px
+  }
   .radio-button > label.active {
-    outline-color: white;
+    border: 3px solid #ff5c00;
     background-color: white;
   }
-
+  .radio-button > label.active::before{
+    content: "";
+    position: absolute;
+    top: -7px; // border: 2px + offset: 1px
+    right: -7px; // border: 2px + offset: 1px
+    bottom: -7px; // border: 2px + offset: 1px
+    left: -7px; // border: 2px + offset: 1px
+    border: 3px solid white;
+    border-radius: 50%; // border—radius: 6px + offset: 1px
+  }
   .radio-button:hover {
     background: rgba(255, 92, 0, 0.2);
     cursor: pointer;

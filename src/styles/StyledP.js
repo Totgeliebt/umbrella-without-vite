@@ -17,6 +17,19 @@ export const StyledPCreate = styled(StyledP)`
   margin-bottom: 26px;
   width: 350px;
 `
+export const StyledLi = styled.li`
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 21px;
+  color: #333333;
+  margin-bottom: 26px;
+  width: 350px;
+  @media (max-width: 430px) {
+    font-size: 16px;
+    line-height: 19px;
+  }
+`
 
 export const StyledPHow = styled(StyledP)`
   width: 259px;

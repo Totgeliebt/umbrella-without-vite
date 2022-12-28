@@ -9,7 +9,7 @@ import MyButton from "../../components/MyButton";
 import Notification from "../../components/popups/Notification";
 import { StyledH1Create } from "../../styles/StyledH1";
 import { StyledH2 } from "../../styles/StyledH2";
-import { StyledPCreate } from "../../styles/StyledP";
+import { StyledLi, StyledPCreate } from "../../styles/StyledP";
 import { StyledIcon } from "../../styles/StyledIcon";
 import { useTranslation } from "react-i18next";
 import FilterComponent from "./FilterComponent";
@@ -34,12 +34,16 @@ const CreateNudeComponent = ({
           <div className="recommendations">
             <h3>{lng["recommendations"]}</h3>
             <StyledH2>{lng["pose title"]}</StyledH2>
-            <StyledPCreate>{lng["pose text"]}</StyledPCreate>
-            <StyledPCreate>{lng["pose text2"]}</StyledPCreate>
-            <StyledPCreate>{lng["pose text3"]}</StyledPCreate>
+            <ul>
+              <StyledLi>{lng["pose text"]}</StyledLi>
+              <StyledLi>{lng["pose text2"]}</StyledLi>
+              <StyledLi>{lng["pose text3"]}</StyledLi>
+            </ul>
             <StyledH2>{lng["clothes title"]}</StyledH2>
-            <StyledPCreate>{lng["clothes text"]}</StyledPCreate>
-            <StyledPCreate>{lng["clothes text2"]}</StyledPCreate>
+            <ul>
+              <StyledLi>{lng["clothes text"]}</StyledLi>
+              <StyledLi>{lng["clothes text2"]}</StyledLi>
+            </ul>
           </div>
           <form className="upload" onSubmit={handleFileSubmit}>
             <section className="container">

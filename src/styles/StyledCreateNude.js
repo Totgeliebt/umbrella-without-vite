@@ -7,14 +7,16 @@ export const StyledCreateNude = styled.div`
     max-width: 1440px;
     margin: 0 auto;
     padding: 0 46px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       padding: 26px 5px 5px;
     }
   }
-
+  ul {
+    margin-left: 30px;
+  }
   .block_container {
     display: flex;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       flex-direction: column-reverse;
     }
   }
@@ -32,14 +34,13 @@ export const StyledCreateNude = styled.div`
     color: #ff5c00;
     margin-bottom: 21px;
     margin-top: 20px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       margin-top: 40px;
     }
   }
 
   .upload {
     max-width: 600px;
-    height: 900px;
     background-color: white;
     display: flex;
     flex-direction: column;
@@ -47,7 +48,7 @@ export const StyledCreateNude = styled.div`
     position: relative;
     align-items: center;
     padding-bottom: 50px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       padding-bottom: 30px;
     }
   }
@@ -62,15 +63,13 @@ export const StyledCreateNude = styled.div`
     width: 95%;
     height: 550px;
     margin: 20px 0 49px;
-    @media(max-width: 430px){
+    position: relative;
+    @media (max-width: 430px) {
       height: 419px;
       margin-bottom: 30px;
     }
   }
-
-  .container {
-    position: relative;
-  }
+  
   .dropzone {
     width: 100%;
     height: 100%;
@@ -89,7 +88,6 @@ export const StyledCreateNude = styled.div`
     justify-content: end;
     align-items: center;
     position: absolute;
-    top: 0;
     left: 50%;
     transform: translateX(-50%);
   }
@@ -102,7 +100,7 @@ export const StyledCreateNude = styled.div`
     color: #dadada;
     text-align: center;
     margin-bottom: 60px;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       margin-bottom: 20px;
     }
   }
@@ -118,7 +116,7 @@ export const StyledCreateNude = styled.div`
     text-align: center;
   }
   .format_icon {
-    margin: -15px 6px 20px 0;
+    margin: 0 6px 20px 0;
   }
 
   .img_after {
@@ -144,7 +142,7 @@ export const StyledCreateNude = styled.div`
     text-align: center;
     position: absolute;
     z-index: 10;
-    @media(max-width: 430px){
+    @media (max-width: 430px) {
       width: 35px;
       height: 35px;
       line-height: 33px;
@@ -152,4 +150,3 @@ export const StyledCreateNude = styled.div`
   }
 `;
 
-export const StyledSection = styled.section``;
