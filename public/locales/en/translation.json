@@ -1,0 +1,188 @@
+{
+  "header": {
+    "how it works": "How it works",
+    "about": "About",
+    "create nude": "Transform photo now!",
+    "login": "Login",
+    "registration": "Registration",
+    "balance": "Top up balance",
+    "photos": "My photos",
+    "log out": "Log out"
+  },
+  "popup": {
+    "login text": "Log in to continue",
+    "login placeholder": "Enter login",
+    "pswd placeholder": "Enter password",
+    "log in": "Log in",
+    "login": "Login",
+    "registration": "Registration",
+    "invalid login": "Invalid login or password",
+    "register text": "Register to continue",
+    "login restrictions": "Only Latin letters and numbers",
+    "pswd restrictions": "Only Latin letters, numbers and special characters",
+    "attention": "Make sure you remember your password as we do not store it for privacy purposes",
+    "user exists": "User already exists.",
+    "try another user": "Try another one or log in."
+  },
+  "general": {
+    "main heading": "Turn any photo into animated film version",
+    "description": "using powerful image processing with one click through artificial intelligence",
+    "create nude btn": "Create cartoon photo now!",
+    "how many nudes": "Cartoon photos created since AiPhotoEdit started"
+  },
+  "AI": {
+    "section heading": "Upload a photo and see what you'd look like in an animated movied the scene",
+    "about AI": "Our neural networks will reimagine your face, see what they come up with!",
+    "algorithm": ""
+  },
+  "clothes": {
+    "section heading": "Works with photos",
+    "that have": "that have",
+    "a lot of faces":  "a lot of faces",
+    "unlike": "Unlike all other similar algorithms that will only work with single face photos, our algorithm works absolutely fine with multiple faces in a photo.",
+    "no longer": "Make your photos with friends, family and loved ones cartoon style or apply cool filters."
+  },
+  "shapes": {
+    "section heading": "In addition to stylized",
+    "portraits": "portraits, we offer",
+    "effects": "unusual effects for processing any kind of photos",
+    "women": "Filters will allow you to process absolutely any photo and make your picture unique and interesting! You can even color a black-and-white photo!",
+    "inclusive": ""
+  },
+  "how it works": {
+    "section heading": "How it works",
+    "upload here": "Upload here",
+    "upload title": "Upload",
+    "upload text": "Choose a photo that you would like to transform",
+    "adjust title": "Adjust",
+    "adjust text": "Choose filter or mask to process the photo",
+    "submit title": "Submit",
+    "submit text": "Our servers will do the magic and transform it for you in a matter of seconds",
+    "result title": "Get result",
+    "result text": "Enjoy the beauty!",
+    "try": "Try with your photo"
+  },
+  "media": {
+    "section heading": "Media about us",
+    "porn hub": "Software we’ve been waiting for ages! Finally, technology is in place.",
+    "forbes": "A fun way to entertain yourself at any party",
+    "verge": "The AiPhotoEdit isn’t perfect, but could easily be mistaken for the real thing",
+    "buzzfeed": "It feels like every person could be transformed and exposed. Too powerful to be available to everyone",
+    "create nude btn": "Transform photo now!"
+  },
+  "privacy policy": {
+    "about": "About",
+    "terms": "Terms of Use",
+    "privacy": "Privacy policy",
+    "last modified": "Last modified date: May 17, 2021",
+    "general title": "1.GENERAL",
+    "general text": "This website (hereinafter referred to as the 'Service') is operated by AiPhotoEdit Inc. Throughout the Site, the terms “we”, “us”, “our”, refer to AiPhotoEdit Inc. The use of our Service is governed by the following Terms of Use and Privacy Policy.",
+    "general text_1": "This Privacy Policy explains what information that can identify you ('Personal Data') will be collected by our Service when you use it, how the Personal Data will be used, and how we process, share and protect your Personal Data. Please read the following carefully to understand our views and practices regarding your Personal Data.",
+    "who we are title": "2.WHO WE ARE",
+    "who we are text": "Acting as a data controller, we are committed to protecting and respecting your privacy. If you have any questions or requests concerning your Personal Data, you may contact our Data Protection Officer (\"DPO\") at support@splazzo.com.",
+    "info title": "3.INFORMATION WE COLLECT.",
+    "info text": " We collect the following data about you:",
+    "info subtitle1": "3.1. Information you give us:",
+    "info subtext1": [
+      "You may give us information and your Personal Data, when you use our Service, by filling in forms (such as the sign-up or sign-in form), when you enter into any of our promotions or surveys, when you correspond with us by e-mail and when you use the “Support” form in our Service.",
+      "The information you give us may include: "
+    ],
+    "info subtext1 list": [
+      "Signature to identify Client on the Service (Client id).",
+      "Mandatory information required to Sign up on our Service,including your name and email address.",
+      "Country of your location.",
+      "Mobile device model.",
+      "The time when the Order was sent and received by Customer.",
+      "The number of Credits that Customer paid for Service (on-site purchase currency).",
+      "Information we may require from you when you report a problem to ur Support Team, such as the subject of your request for support."
+    ],
+    "info subtitle2": "3.2. Information we collect automatically:",
+    "info subtext2": [
+      "Cookie Information: In operating the Service, we may also use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Service gives to your browser when you access the Service. Our cookies help provide additional functionality to the Service and help us analyze its usage more accurately. It doesn't collect Personal Data about you.",
+      "Log File Information: Log file information is automatically reported by your browser each time you access our Service. We automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, advertising identifier, download errors and other such information."
+    ],
+    "how use info title": "4.HOW WE USE THE INFORMATION",
+    "how use info": "We use the information we collect:",
+    "how use info text": [
+      "to execute the order and provide retouching service;",
+      "to provide you with the information and services that you requested from us;",
+      "to give you access to our support services. By providing your email address you consent to our using the email address to answer your question or resolve your problem;",
+      "to notify you about changes on our Service;",
+      "to purposes such as analyzing how the Service is used, diagnosing service or technical problems;",
+      "to improve the Service to ensure that content is presented in the most effective manner for you and for your device;",
+      "as part of our efforts to keep our Service safe and secure;",
+      "to ensure compliance with (i) applicable laws, (ii) our Terms and Conditions, and (iii) our Privacy Notice. Certain breaches that we regard as inappropriate may lead to the suspension of your Account profile"
+    ],
+    "how use info also": "Also, we use cookies and log file information to:",
+    "how use info also text": [
+      "provide custom, personalized content and information;",
+      "monitor the effectiveness of our Service;",
+      "monitor aggregate metrics such as total number of visitors and traffic;",
+      "diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP."
+    ],
+    "how we share title": "5.HOW WE SHARE THE INFORMATION",
+    "how we share text": ["We will not rent or sell your Personal Data to others and will not share it with others except as provided herein.","We may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of our Service (for instance, on servers or databases co-located with hosting providers).","As we develop our business, we may buy or sell assets or business offerings. Information we collect is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.", "When you use our Service, some of your Personal Data is shared with our Support team."],
+    "how we protect title": "6.HOW WE PROTECT YOUR INFORMATION",
+    "how we protect text": ["We work hard to protect your privacy and collect only the data we need to make your experience better. We make commercially reasonable efforts to ensure the security of our systems. However, no Internet, email or other electronic transmission is ever fully secure or error free and while we strive to use commercially acceptable means to protect data, we cannot guarantee its absolute security.", "The website uses SSL encryption that ensures the confidentiality of your information in the transmission of data. In no case, we do collect store, or transfer data from your card. The payment operations are carried out entirely through the secure server of our payment gateways. They will not sell, purchase, provide, exchange or in any other manner disclose Account or Transaction data, or personal information of or about a Cardholder to anyone, except, it’s Acquirer, Card networks/associations, or in response to valid government demands."]
+  },
+  "terms of use": {
+    "about": "About",
+    "privacy": "Privacy policy",
+    "terms": "Terms of Use",
+    "terms of use": "Terms of Use",
+    "last modified": "Last modified date: May 17, 2021",
+    "company info title": "COMPANY INFORMATION",
+    "company info text": ["This website (hereinafter referred to as the 'Service') is operated by AiPhotoEdit Inc. Throughout the Site, the terms “we”, “us”, “our”, refer to AiPhotoEdit Inc. The use of our Service is governed by the following Terms of Use and Privacy Policy.", "Our Service offers information, tools and services available to you, the user, conditioned upon your acceptance of all terms, conditions, policies and notices stated here.", "These Terms of Use affect your legal rights and obligations and have been written to provide a high-quality service.", "Please read these Terms of Use before using our Service. Your use of our Service indicates your acceptance of these Terms of Use. If you do not agree to be bound by all of these Terms of Use, please do not use our Service."],
+    "general provisions title": "1.GENERAL PROVISIONS",
+    "general provisions text": ["We provide a powerful image processing and retouching AI-based service.","Retouching is defined as an internal work of our machine-learning AI algorithm, which processes and modifies submitted photos.","The Customer is defined as an Account profile of every user that launches our Service and has a unique Client id. All photos processed and retouched by the Service are owned by the customer. The customer can dispose of a retouched/processed photo at his/her discretion.","Credits are defined as in-app purchase currency of the Service.","Retouched photo (or Order) is defined as an image that is sent by the Customer for retouching which is then processed by our Service. Customer can send the Order for retouching only using Credits.","After sending the Order for retouching/processing it can't be canceled by the Customer. Processed photos are provided as-is and may vary greatly in quality.", "Processed photos are provided as a result to the Customer, and can then be downloaded and stored locally by the Customer. Service does not store or preserve neither original photo nor processed photo."],
+    "credit title": "2.CREDIT PACKAGES",
+    "credit text":["Credit packages offer access to a certain number of Credits and don't have an expiration date. They can be purchased from inside the Service.","Every single Order requires 1 Credit to be processed by our Service."],
+    "refund title": "3.REFUND POLICY",
+    "refund text": "Purchased Credits are not refundable.",
+    "changes title": "4.CHANGES TO TERMS OF USE",
+    "changes text": "Our Service may change from time to time. As a result, at times it may be necessary for us to make changes to these TERMS OF USE. We reserve the right to update or modify these TERMS OF USE at any time without prior notice. These TERMS OF USE were last updated on the date indicated above. All modifications of TERMS OF USE replace and cancel previous stipulations as soon as they have been accepted expressly or tacitly by Customer."
+  },
+  "create nude": {
+    "section header": "Create a wonderful photo now",
+    "recommendations": "recommendations",
+    "pose title": "Masks",
+    "pose text": "Use a clear and sharp image where your face is the main subject.",
+    "pose text2": "Avoid things that obscure your face.",
+    "pose text3": "Try the different models as they all perform differently.",
+    "clothes title": "Filters",
+    "clothes text": "Try to use a good quality photo.",
+    "clothes text2": "Don't use blurry photos.",
+    "drag": "Drag photo here",
+    "formats": "Supported formats",
+    "photo size": "Photos should be",
+    "photo format":"less that 1024×1024 pixels",
+    "nudify btn": "Transform",
+    "masks": "Masks",
+    "filters": "Filters",
+    "error note": "The error occurred. Please, try again later!",
+    "wait note": "The photo processing can take some time, please, wait!"
+  },
+  "deposit": {
+    "section header": "Deposit",
+    "choose": "Choose how many coins → Select the number of images (1$ for one)",
+    "photos": "Photos available",
+    "free": "FREE",
+    "payment method": "Select a Payment Method",
+    "pay btn": "Pay",
+    "photo": "photos",
+    "processing": "You have 0 photos ",
+    "processing br" : "processing"
+  },
+  "my photos": {
+    "no photos": {
+      "title" : "You don't have edited photos yet.",
+      "link" : "Try adding the first photo."
+    },
+    "shown": "Shown",
+    "out of": "out of",
+    "error": "Error, you need to try again.",
+    "section header": "My photos",
+    "add photo btn": "Transform a new photo",
+    "processing": "Processing"
+  }
+}
