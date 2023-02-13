@@ -13,7 +13,7 @@ const UserMenu = ({ isDropdownShown, setIsDropdownShown }) => {
   const handleLogout = () => {
     dispatch(logout());
   };
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("header", { returnObjects: true });
   return (
     <div

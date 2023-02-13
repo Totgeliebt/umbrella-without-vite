@@ -1,0 +1,73 @@
+{
+  "header": {
+    "how it works": "How it works",
+    "about": "About",
+    "create nude": "Transform photo now!",
+    "login": "Login",
+    "registration": "Registration",
+    "balance": "Top up balance",
+    "photos": "My photos",
+    "log out": "Log out"
+  },
+  "popup": {
+    "login text": "Log in to continue",
+    "login placeholder": "Enter login",
+    "pswd placeholder": "Enter password",
+    "log in": "Log in",
+    "login": "Login",
+    "registration": "Registration",
+    "invalid login": "Invalid login or password",
+    "register text": "Register to continue",
+    "login restrictions": "Only Latin letters and numbers",
+    "pswd restrictions": "Only Latin letters, numbers and special characters",
+    "attention": "Make sure you remember your password as we do not store it for privacy purposes",
+    "user exists": "User already exists.",
+    "try another user": "Try another one or log in."
+  },
+  "general": {
+    "main heading": "Turn any photo into animated film version",
+    "description": "using powerful image processing with one click through artificial intelligence",
+    "create nude btn": "Create cartoon photo now!",
+    "how many nudes": "Cartoon photos created since AiPhotoEdit started"
+  },
+  "AI": {
+    "section heading": "Upload a photo and see what you'd look like in an animated movie scene",
+    "about AI": "Our neural networks will reimagine your face, see what they come up with!",
+    "algorithm": ""
+  },
+  "clothes": {
+    "section heading": "Works with photos",
+    "that have": "that have",
+    "a lot of faces":  "a lot of faces",
+    "unlike": "Unlike all other similar algorithms that will only work with single face photos, our algorithm works absolutely fine with multiple faces in a photo.",
+    "no longer": "Make your photos with friends, family and loved ones cartoon style or apply cool filters."
+  },
+  "shapes": {
+    "section heading": "In addition to stylized",
+    "portraits": "portraits, we offer",
+    "effects": "unusual effects for processing any kind of photos",
+    "women": "Filters will allow you to process absolutely any photo and make your picture unique and interesting! You can even color a black-and-white photo!",
+    "inclusive": ""
+  },
+  "how it works": {
+    "section heading": "How it works",
+    "upload here": "Upload here",
+    "upload title": "Upload",
+    "upload text": "Choose a photo that you would like to transform",
+    "adjust title": "Adjust",
+    "adjust text": "Choose filter or mask to process the photo",
+    "submit title": "Submit",
+    "submit text": "Our servers will do the magic and transform it for you in a matter of seconds",
+    "result title": "Get result",
+    "result text": "Enjoy the beauty!",
+    "try": "Try with your photo"
+  },
+  "media": {
+    "section heading": "Media about us",
+    "porn hub": "Software we’ve been waiting for ages! Finally, technology is in place.",
+    "forbes": "A fun way to entertain yourself at any party",
+    "verge": "The AiPhotoEdit isn’t perfect, but could easily be mistaken for the real thing",
+    "buzzfeed": "It feels like every person could be transformed and exposed. Too powerful to be available to everyone",
+    "create nude btn": "Transform photo now!"
+  }
+}

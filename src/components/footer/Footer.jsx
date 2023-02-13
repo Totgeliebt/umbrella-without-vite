@@ -10,7 +10,7 @@ const Footer = () => {
   const token = useSelector((state) => state.user.user?.authToken);
   const navigate = useNavigate();
   const dispatch = useDispatch();
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("header", { returnObjects: true });
 
   const handlePopup = (isShow, type) => {

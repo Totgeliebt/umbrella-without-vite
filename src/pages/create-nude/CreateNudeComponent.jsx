@@ -23,7 +23,7 @@ const CreateNudeComponent = ({
   thumbs,
   setFileOps,
 }) => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('create-nude');
   const lng = t("create nude", { returnObjects: true });
   return (
     <StyledCreateNude>

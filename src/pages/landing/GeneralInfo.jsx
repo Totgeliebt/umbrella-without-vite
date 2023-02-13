@@ -22,7 +22,7 @@ const GeneralInfo = () => {
       })
     );
   };
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("general", { returnObjects: true });
   return (
     <StyledGeneral>

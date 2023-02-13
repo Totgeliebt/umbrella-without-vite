@@ -10,7 +10,7 @@ import { StyledP } from "../../styles/StyledP";
 import { useTranslation } from "react-i18next";
 
 const Clothes = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("clothes", { returnObjects: true });
   return (
     <StyledClothes>

@@ -2,7 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 
 const LoginButton = ({ handlePopup }) => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("header", { returnObjects: true });
   return (
     <div className="header_login-btn">

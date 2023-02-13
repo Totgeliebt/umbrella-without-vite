@@ -24,7 +24,7 @@ const Media = () => {
       })
     );
   };
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("media", { returnObjects: true });
   return (
     <StyledMedia>

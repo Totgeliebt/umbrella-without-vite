@@ -8,7 +8,7 @@ import { StyledIcon } from "../../styles/StyledIcon";
 import { useTranslation } from "react-i18next";
 
 const TermsOfUse = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('terms');
   const lng = t("terms of use", { returnObjects: true });
   return (
     <StyledAbout>

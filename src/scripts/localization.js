@@ -5,9 +5,9 @@ import LanguageDetector from "i18next-browser-languagedetector";
 import HttpApi from "i18next-http-backend";
 
 i18n
+  .use(HttpApi)
   .use(initReactI18next)
   .use(LanguageDetector)
-  .use(HttpApi)
   .init({
     react: {
       useSuspense: false
@@ -21,6 +21,9 @@ i18n
     },
     interpolation: {
       escapeValue: false,
+    },
+    backend: {
+      loadPath: '/locales/{{lng}}/{{ns}}.json',
     },
   });
 

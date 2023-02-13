@@ -4,7 +4,7 @@ import CustomLink from "./CustomLink";
 import { useTranslation } from "react-i18next";
 
 const Menu = ({ menuWidth }) => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("header", { returnObjects: true });
   return (
     <StyledMenu menuWidth={menuWidth}>

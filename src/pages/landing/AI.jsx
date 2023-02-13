@@ -10,7 +10,7 @@ import { StyledP } from "../../styles/StyledP";
 import { useTranslation } from "react-i18next";
 
 const Ai = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("AI", { returnObjects: true });
   return (
     <StyledAi>

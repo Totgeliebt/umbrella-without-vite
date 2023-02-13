@@ -1,0 +1,22 @@
+{
+  "create nude": {
+    "section header": "Create a wonderful photo now",
+    "recommendations": "recommendations",
+    "pose title": "Masks",
+    "pose text": "Use a clear and sharp image where your face is the main subject.",
+    "pose text2": "Avoid things that obscure your face.",
+    "pose text3": "Try the different models as they all perform differently.",
+    "clothes title": "Filters",
+    "clothes text": "Try to use a good quality photo.",
+    "clothes text2": "Don't use blurry photos.",
+    "drag": "Drag photo here",
+    "formats": "Supported formats",
+    "photo size": "Photos should be",
+    "photo format":"less that 1024×1024 pixels",
+    "nudify btn": "Transform",
+    "masks": "Masks",
+    "filters": "Filters",
+    "error note": "The error occurred. Please, try again later!",
+    "wait note": "The photo processing can take some time, please, wait!"
+  }
+}

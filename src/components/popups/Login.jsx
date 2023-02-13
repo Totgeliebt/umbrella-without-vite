@@ -13,7 +13,7 @@ const Login = ({ handlePopup }) => {
   const [error, setError] = useState("");
   const [user, setUser] = useState("");
   const [password, setPassword] = useState("");
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("popup", { returnObjects: true });
   const dispatch = useDispatch();
   const userData = { userName: user, userPassword: password };

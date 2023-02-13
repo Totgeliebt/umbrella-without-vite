@@ -24,7 +24,7 @@ const Header = () => {
   const [menuMobileActive, setMenuMobileActive] = useState(false);
   const [headerFix, setHeaderFix] = useState(false);
   const match = useMatch("/landing");
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("header", { returnObjects: true });
 
   const handleMobileMenu = () => {

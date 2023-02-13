@@ -17,7 +17,7 @@ const Registration = ({ handlePopup }) => {
   const [errorReg, setErrorReg] = useState("");
   const queryParams = new URLSearchParams(window.location.search);
   const clickid = queryParams.get("clickid");
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("popup", { returnObjects: true });
   const dispatch = useDispatch();
 

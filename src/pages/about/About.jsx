@@ -8,7 +8,7 @@ import { StyledIcon } from "../../styles/StyledIcon";
 import { useTranslation } from "react-i18next";
 
 const About = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('privacy-policy');
   const lng = t("privacy policy", { returnObjects: true });
   return (
     <StyledAbout>
