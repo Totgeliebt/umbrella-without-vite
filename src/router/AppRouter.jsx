@@ -8,10 +8,11 @@ import {TermsOfUseAsync} from "../pages/about/TermsOfUse.async";
 import {CreateNudeAsync} from "../pages/create-nude/CreateNude.async";
 import {DepositAsync} from "../pages/deposit/Deposit.async";
 import {PaginatedPhotosAsync} from "../pages/my-photos/PaginatedPhotos.async";
+import Loader from "../components/Loader";
 
 const AppRouter = () => {
   return (
-    <Suspense fallback={<div>Loading...</div>}>
+    <Suspense fallback={<Loader/>}>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route path="landing/*" element={<LandingAsync />} />

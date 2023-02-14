@@ -24,7 +24,7 @@ const HowItWorks = () => {
       })
     );
   };
-  const { t } = useTranslation();
+  const { t } = useTranslation('landing');
   const lng = t("how it works", { returnObjects: true });
   return (
     <StyledHowItWorks>
